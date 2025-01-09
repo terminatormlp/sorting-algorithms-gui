@@ -1,4 +1,4 @@
-![paveikslas](https://github.com/user-attachments/assets/be91983f-462f-42a5-9e67-d63981f55b31)# Sorting Algorithm Visualizer
+# Sorting Algorithm Visualizer
 
 A feature-rich, interactive visualization tool for various sorting algorithms built with PyQt6. This application helps users understand how different sorting algorithms work through real-time visualization and performance metrics.
 
